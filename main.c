@@ -27,7 +27,7 @@ void securitySystem();
 void analyzeHouseStatus();
 
 int main() {
-    
+    int a=25;
 
     return 0;
 }
@@ -53,5 +53,4 @@ void securitySystem() {
 
 }
 void analyzeHouseStatus() {
-
 }
